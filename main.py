@@ -31,5 +31,3 @@ operasi = int(input("Masukan operasi:  "))
         print(angka1*angka2)
     elif operasi == 5:
         print(angka1//angka2)
-
-
